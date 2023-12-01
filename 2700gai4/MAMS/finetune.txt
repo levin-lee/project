@@ -1,0 +1,624 @@
+It might be the best sit down food I've had in the area, so if you are going to the upright citizen brigade, or the garden, it could be just the place for you.The sentiment polarity of food is positive .
+It might be the best sit down food I've had in the area, so if you are going to the upright citizen brigade, or the garden, it could be just the place for you.The sentiment polarity of place is neutral .
+Hostess was extremely accommodating when we arrived an hour early for our reservation.The sentiment polarity of staff is positive .
+Hostess was extremely accommodating when we arrived an hour early for our reservation.The sentiment polarity of miscellaneous is neutral .
+We were a couple of minutes late for our reservation and minus one guest, but we didn't think we deserved the attitude we got from the hostess.The sentiment polarity of miscellaneous is neutral .
+We were a couple of minutes late for our reservation and minus one guest, but we didn't think we deserved the attitude we got from the hostess.The sentiment polarity of staff is negative .
+Though the service might be a little slow, the waitresses are very friendly.The sentiment polarity of service is negative .
+Though the service might be a little slow, the waitresses are very friendly.The sentiment polarity of staff is positive .
+Although we arrived at the restaurant 10 min late, the hostess did not have a table for us.The sentiment polarity of staff is negative .
+Although we arrived at the restaurant 10 min late, the hostess did not have a table for us.The sentiment polarity of miscellaneous is neutral .
+I like the smaller portion size for dinner.The sentiment polarity of miscellaneous is negative .
+I like the smaller portion size for dinner.The sentiment polarity of food is neutral .
+The bill was surprisingly inexpensive considering we each had appetizers, an entree, dessert and drinks (alcoholic and non) we also had 3 rounds of shots for the entire table.The sentiment polarity of food is neutral .
+The bill was surprisingly inexpensive considering we each had appetizers, an entree, dessert and drinks (alcoholic and non) we also had 3 rounds of shots for the entire table.The sentiment polarity of price is positive .
+The bill was surprisingly inexpensive considering we each had appetizers, an entree, dessert and drinks (alcoholic and non) we also had 3 rounds of shots for the entire table.The sentiment polarity of miscellaneous is neutral .
+) other food is served in too-small portions, but at least it leaves room for dessert.The sentiment polarity of miscellaneous is negative .
+) other food is served in too-small portions, but at least it leaves room for dessert.The sentiment polarity of food is neutral .
+It was very loud, I felt too crowded, the man chair's next to me made it impossible for the waiters to pass.The sentiment polarity of miscellaneous is neutral .
+It was very loud, I felt too crowded, the man chair's next to me made it impossible for the waiters to pass.The sentiment polarity of staff is negative .
+After ordering drinks, we both decided on the Paella Vallenciana, brought out on hot plates.The sentiment polarity of food is neutral .
+After ordering drinks, we both decided on the Paella Vallenciana, brought out on hot plates.The sentiment polarity of miscellaneous is positive .
+Portions are fairly generous and the staff brings out multiple little bites and treats throughout dinner.The sentiment polarity of miscellaneous is positive .
+Portions are fairly generous and the staff brings out multiple little bites and treats throughout dinner.The sentiment polarity of staff is positive .
+Portions are fairly generous and the staff brings out multiple little bites and treats throughout dinner.The sentiment polarity of food is neutral .
+I had to ask for bread for the table (several times).The sentiment polarity of food is negative .
+I had to ask for bread for the table (several times).The sentiment polarity of miscellaneous is neutral .
+Specialty drinks--alcoholic and non--arrive in skull mugs or mini-canteens, nifty take-home souvenirs.The sentiment polarity of food is neutral .
+Specialty drinks--alcoholic and non--arrive in skull mugs or mini-canteens, nifty take-home souvenirs.The sentiment polarity of miscellaneous is positive .
+After reading other reviews I was expecting poor service and ambience but was pleasantly surprised by our more than helpful waiter.The sentiment polarity of service is negative .
+After reading other reviews I was expecting poor service and ambience but was pleasantly surprised by our more than helpful waiter.The sentiment polarity of staff is positive .
+I was told by the hostess that a specific table would be mine once the customers left and I waited 45 minutes for that to happen.The sentiment polarity of staff is negative .
+I was told by the hostess that a specific table would be mine once the customers left and I waited 45 minutes for that to happen.The sentiment polarity of miscellaneous is neutral .
+Towards the end of our meal, a server came out, apparently our orders had been double-filled.The sentiment polarity of food is neutral .
+Towards the end of our meal, a server came out, apparently our orders had been double-filled.The sentiment polarity of staff is negative .
+The Food The casual Middle Eastern menu looks familar, but the food--made to order in the open kitchen--is a notch above its peers.The sentiment polarity of menu is positive .
+The Food The casual Middle Eastern menu looks familar, but the food--made to order in the open kitchen--is a notch above its peers.The sentiment polarity of place is neutral .
+Upon entering, I was impressed by the room while the food on other peoples' tables seemed enticing.The sentiment polarity of food is neutral .
+Upon entering, I was impressed by the room while the food on other peoples' tables seemed enticing.The sentiment polarity of place is positive .
+The beginning of the meal wasnt bad, the hostess was very nice, we got our drinks about every 10 minutes and the appetizers we good.The sentiment polarity of staff is positive .
+The beginning of the meal wasnt bad, the hostess was very nice, we got our drinks about every 10 minutes and the appetizers we good.The sentiment polarity of food is neutral .
+I found that the food variety was great, and the waitress was very accommodating to my vegan boyfriend describing all items' ingredients and how you may request more of what YOU like, creating a unique experience.The sentiment polarity of food is positive .
+I found that the food variety was great, and the waitress was very accommodating to my vegan boyfriend describing all items' ingredients and how you may request more of what YOU like, creating a unique experience.The sentiment polarity of staff is positive .
+I found that the food variety was great, and the waitress was very accommodating to my vegan boyfriend describing all items' ingredients and how you may request more of what YOU like, creating a unique experience.The sentiment polarity of ambience is neutral .
+Came recommended to us, but we found the food to be so-so, the service good, but we were told we could not order desert since the table we were at had a reservation waiting.The sentiment polarity of food is negative .
+Came recommended to us, but we found the food to be so-so, the service good, but we were told we could not order desert since the table we were at had a reservation waiting.The sentiment polarity of service is neutral .
+Our waitress couldn't tell us what was in the seafood special, forgot to put in our oyster order so it came at the same time as the main meals, wasn't able to provide a confident recommendation from the menu, and had to be flagged several times for drinks.The sentiment polarity of staff is negative .
+Our waitress couldn't tell us what was in the seafood special, forgot to put in our oyster order so it came at the same time as the main meals, wasn't able to provide a confident recommendation from the menu, and had to be flagged several times for drinks.The sentiment polarity of food is neutral .
+Our waitress couldn't tell us what was in the seafood special, forgot to put in our oyster order so it came at the same time as the main meals, wasn't able to provide a confident recommendation from the menu, and had to be flagged several times for drinks.The sentiment polarity of menu is neutral .
+I went back (with my cold soups) They said they would have to make me another dish since they couldn't scrape off the unwanted ingredients.The sentiment polarity of food is neutral .
+I went back (with my cold soups) They said they would have to make me another dish since they couldn't scrape off the unwanted ingredients.The sentiment polarity of ambience is negative .
+Server's were extremely nice, yet were socializing too much with friends that were having drinks at the bar and it was difficult to get their attention.The sentiment polarity of staff is positive .
+Server's were extremely nice, yet were socializing too much with friends that were having drinks at the bar and it was difficult to get their attention.The sentiment polarity of place is neutral .
+And there wasn't much room for the people at the bar to stand either, as the restaurant attempted to squeeze as many tables into the restaurant as they could, forcing those dining to have to shift in their chairs every time a waiter attempted to get by.The sentiment polarity of place is neutral .
+And there wasn't much room for the people at the bar to stand either, as the restaurant attempted to squeeze as many tables into the restaurant as they could, forcing those dining to have to shift in their chairs every time a waiter attempted to get by.The sentiment polarity of food is neutral .
+And there wasn't much room for the people at the bar to stand either, as the restaurant attempted to squeeze as many tables into the restaurant as they could, forcing those dining to have to shift in their chairs every time a waiter attempted to get by.The sentiment polarity of miscellaneous is neutral .
+And there wasn't much room for the people at the bar to stand either, as the restaurant attempted to squeeze as many tables into the restaurant as they could, forcing those dining to have to shift in their chairs every time a waiter attempted to get by.The sentiment polarity of staff is negative .
+Went for an early V-Day dinner, only to be highly disappointed by the service.The sentiment polarity of food is neutral .
+Went for an early V-Day dinner, only to be highly disappointed by the service.The sentiment polarity of service is negative .
+Before our food arrived I asked our waitress if we could be moved and she just stared blankly at me.The sentiment polarity of food is neutral .
+Before our food arrived I asked our waitress if we could be moved and she just stared blankly at me.The sentiment polarity of staff is negative .
+The service is excellent -- the staff is attentive and the waitress was well-informed about the menu.The sentiment polarity of service is positive .
+The service is excellent -- the staff is attentive and the waitress was well-informed about the menu.The sentiment polarity of staff is positive .
+The service is excellent -- the staff is attentive and the waitress was well-informed about the menu.The sentiment polarity of menu is neutral .
+I still go often, but the prices went up a little and the service is even slower now that they're always full during dinner hours.The sentiment polarity of price is negative .
+I still go often, but the prices went up a little and the service is even slower now that they're always full during dinner hours.The sentiment polarity of food is neutral .
+It is the only all Austrian wine list in the country and the waitress gladly broke it down for me, so I could find just the right wine for my meal.The sentiment polarity of food is neutral .
+It is the only all Austrian wine list in the country and the waitress gladly broke it down for me, so I could find just the right wine for my meal.The sentiment polarity of staff is positive .
+its a cool place to come with a bunch of people or with a date for maybe a mild dinner or some drinks.The sentiment polarity of place is positive .
+its a cool place to come with a bunch of people or with a date for maybe a mild dinner or some drinks.The sentiment polarity of food is neutral .
+The final blow was when the waiter brought us the check before we had even finished dessert--never mind that the only reason we were taking a long time to finish the meal was because of the extreme delay in the service of our food.The sentiment polarity of staff is negative .
+The final blow was when the waiter brought us the check before we had even finished dessert--never mind that the only reason we were taking a long time to finish the meal was because of the extreme delay in the service of our food.The sentiment polarity of food is neutral .
+The final blow was when the waiter brought us the check before we had even finished dessert--never mind that the only reason we were taking a long time to finish the meal was because of the extreme delay in the service of our food.The sentiment polarity of service is negative .
+worst margaritas in town,if you are going to order a battle of (white wine)they served hot.The sentiment polarity of food is negative .
+worst margaritas in town,if you are going to order a battle of (white wine)they served hot.The sentiment polarity of service is neutral .
+They served the main course before the appetizers eventhough we asked for the latter first, to which our waiter responded that they don't serve them separately without telling us beforehand while ordering.The sentiment polarity of food is neutral .
+They served the main course before the appetizers eventhough we asked for the latter first, to which our waiter responded that they don't serve them separately without telling us beforehand while ordering.The sentiment polarity of staff is negative .
+After requesting to be seated at an empty table, the waitress (who was so terribly burdened when we asked to move from the bar to the table to have dinner) asked us to get up from our seats and wait for a smaller table because a party of 3 just walked in.The sentiment polarity of staff is negative .
+After requesting to be seated at an empty table, the waitress (who was so terribly burdened when we asked to move from the bar to the table to have dinner) asked us to get up from our seats and wait for a smaller table because a party of 3 just walked in.The sentiment polarity of place is neutral .
+After requesting to be seated at an empty table, the waitress (who was so terribly burdened when we asked to move from the bar to the table to have dinner) asked us to get up from our seats and wait for a smaller table because a party of 3 just walked in.The sentiment polarity of food is neutral .
+The place wasn't at all busy, and we were shown a table in the back, given our menus, and promptly forgotten about.The sentiment polarity of place is negative .
+The place wasn't at all busy, and we were shown a table in the back, given our menus, and promptly forgotten about.The sentiment polarity of menu is neutral .
+Although the service can be a bit brusque at times, the food is always good, hearty and hot.The sentiment polarity of service is negative .
+Although the service can be a bit brusque at times, the food is always good, hearty and hot.The sentiment polarity of food is positive .
+The Food Despite a menu that seems larger than the restaurant, great care goes into the preparation of every dish.The sentiment polarity of food is positive .
+The Food Despite a menu that seems larger than the restaurant, great care goes into the preparation of every dish.The sentiment polarity of menu is neutral .
+Cornelia Street looks like a Broadway set for West Side Story and the inside of Po is so cool quaint you really can't top the setting for a romantic dinner in NYC.The sentiment polarity of ambience is neutral .
+Cornelia Street looks like a Broadway set for West Side Story and the inside of Po is so cool quaint you really can't top the setting for a romantic dinner in NYC.The sentiment polarity of food is positive .
+Be warned that this place can get pretty crowded, though the $3 bloody mary's at the bar and the killer DJ make the wait more than bearable.The sentiment polarity of place is neutral .
+Be warned that this place can get pretty crowded, though the $3 bloody mary's at the bar and the killer DJ make the wait more than bearable.The sentiment polarity of staff is negative .
+As if that wasnt enough, after another in the group mentioned that a portion of the sushi on her plate was not what she had ordered, the waiter came back with chopsticks and started to remove it (as she was eating!)The sentiment polarity of miscellaneous is neutral .
+As if that wasnt enough, after another in the group mentioned that a portion of the sushi on her plate was not what she had ordered, the waiter came back with chopsticks and started to remove it (as she was eating!)The sentiment polarity of food is neutral .
+As if that wasnt enough, after another in the group mentioned that a portion of the sushi on her plate was not what she had ordered, the waiter came back with chopsticks and started to remove it (as she was eating!)The sentiment polarity of staff is negative .
+We started with the guacamole and this is by far the best I've ever had bar none.The sentiment polarity of food is positive .
+We started with the guacamole and this is by far the best I've ever had bar none.The sentiment polarity of place is neutral .
+If you eat here, just keep in mind that the specials are much higher than the regular menu when ordering.The sentiment polarity of food is positive .
+If you eat here, just keep in mind that the specials are much higher than the regular menu when ordering.The sentiment polarity of menu is neutral .
+The waiter was just throwing our dishes on the table without even clearing the appetizer plates and then they started clearing the food when we weren't even finished yet.The sentiment polarity of staff is negative .
+The waiter was just throwing our dishes on the table without even clearing the appetizer plates and then they started clearing the food when we weren't even finished yet.The sentiment polarity of food is neutral .
+The waiter was just throwing our dishes on the table without even clearing the appetizer plates and then they started clearing the food when we weren't even finished yet.The sentiment polarity of miscellaneous is neutral .
+Before we can even order desert, the waitress comes and tells us we have to leave because the host wanted our table.The sentiment polarity of staff is negative .
+Before we can even order desert, the waitress comes and tells us we have to leave because the host wanted our table.The sentiment polarity of miscellaneous is neutral .
+the tables are in the back and the ambience was less to be desired.The sentiment polarity of place is neutral .
+the tables are in the back and the ambience was less to be desired.The sentiment polarity of ambience is negative .
+While service is still ok, the food has been not up to par on my last few visits.The sentiment polarity of service is positive .
+While service is still ok, the food has been not up to par on my last few visits.The sentiment polarity of food is negative .
+After the wine experience, I actually expected worse than what was served.The sentiment polarity of food is neutral .
+After the wine experience, I actually expected worse than what was served.The sentiment polarity of service is negative .
+I dined in the Main Dining Room which is surrounded by authentic Spanish decorations.The sentiment polarity of place is neutral .
+I dined in the Main Dining Room which is surrounded by authentic Spanish decorations.The sentiment polarity of ambience is positive .
+Our server did not check on us, ask if we needed anything, refill our water or get our dessert order right.The sentiment polarity of staff is negative .
+Our server did not check on us, ask if we needed anything, refill our water or get our dessert order right.The sentiment polarity of food is neutral .
+On ouor visit, our reservation was ignored and then we were asked to move from our seats at the bar, where we were told to wait, because we were not drinking enough.The sentiment polarity of miscellaneous is negative .
+On ouor visit, our reservation was ignored and then we were asked to move from our seats at the bar, where we were told to wait, because we were not drinking enough.The sentiment polarity of place is neutral .
+The food at Cafe Asean is to die for, and the prices are unmatchable.The sentiment polarity of food is positive .
+The food at Cafe Asean is to die for, and the prices are unmatchable.The sentiment polarity of price is negative .
+The Scene The entrance leads into a dim, narrow bar decorated with sake bottles, exposed brick and a beautiful arched wooden ceiling.The sentiment polarity of miscellaneous is positive .
+The Scene The entrance leads into a dim, narrow bar decorated with sake bottles, exposed brick and a beautiful arched wooden ceiling.The sentiment polarity of place is negative .
+The Scene The entrance leads into a dim, narrow bar decorated with sake bottles, exposed brick and a beautiful arched wooden ceiling.The sentiment polarity of food is neutral .
+It also has great ice cream and spumoni ices.The sentiment polarity of food is positive .
+It also has great ice cream and spumoni ices.The sentiment polarity of miscellaneous is neutral .
+However, the drinks are very good and this place is alright for brunch, if you don't mind sitting in a very cramped spot and/or waiting on line.The sentiment polarity of food is positive .
+However, the drinks are very good and this place is alright for brunch, if you don't mind sitting in a very cramped spot and/or waiting on line.The sentiment polarity of miscellaneous is negative .
+However, the drinks are very good and this place is alright for brunch, if you don't mind sitting in a very cramped spot and/or waiting on line.The sentiment polarity of service is negative .
+The ONLY negative was when we asked the waiter to secretly bring birthday cake and some other desserts for the table.The sentiment polarity of staff is negative .
+The ONLY negative was when we asked the waiter to secretly bring birthday cake and some other desserts for the table.The sentiment polarity of miscellaneous is neutral .
+Sometimes, the take-out and seating lines can be long, but the staff help move things along.The sentiment polarity of food is neutral .
+Sometimes, the take-out and seating lines can be long, but the staff help move things along.The sentiment polarity of miscellaneous is neutral .
+Sometimes, the take-out and seating lines can be long, but the staff help move things along.The sentiment polarity of staff is positive .
+I went to Sushiden on a Friday night around 8:00, the place was pretty empty, we had reservations, but we didnt need them.The sentiment polarity of place is negative .
+I went to Sushiden on a Friday night around 8:00, the place was pretty empty, we had reservations, but we didnt need them.The sentiment polarity of miscellaneous is neutral .
+THE DECOR HAS BEEN UPDATED TO A FULL BLOWN RESTAURANT BUT THE QUALITY AND THE QUANTITY HASN'T CHANGED.The sentiment polarity of ambience is positive .
+THE DECOR HAS BEEN UPDATED TO A FULL BLOWN RESTAURANT BUT THE QUALITY AND THE QUANTITY HASN'T CHANGED.The sentiment polarity of miscellaneous is negative .
+A+  was planning a party for my staff, and was treated rudely by another restaurant when trying to add more people to reservation (a simple no would have worked).The sentiment polarity of staff is negative .
+A+  was planning a party for my staff, and was treated rudely by another restaurant when trying to add more people to reservation (a simple no would have worked).The sentiment polarity of miscellaneous is neutral .
+The Food Regulars swear by the tamales, which are spongy, well-seasoned and pulled from steaming crocks on the counter.The sentiment polarity of food is positive .
+The Food Regulars swear by the tamales, which are spongy, well-seasoned and pulled from steaming crocks on the counter.The sentiment polarity of place is neutral .
+Unfortunately, the food along with the unhelpful service doesn't make up for the atmosphere.The sentiment polarity of food is neutral .
+Unfortunately, the food along with the unhelpful service doesn't make up for the atmosphere.The sentiment polarity of service is negative .
+Unfortunately, the food along with the unhelpful service doesn't make up for the atmosphere.The sentiment polarity of ambience is neutral .
+They expanded the seating with a cozy new back section, added some great new dishes (I had the most fantastic j erk Shrimp and exciting maize crusted salmon) but kept everything that was good (amazing staff and Mac Jack!)The sentiment polarity of place is neutral .
+They expanded the seating with a cozy new back section, added some great new dishes (I had the most fantastic j erk Shrimp and exciting maize crusted salmon) but kept everything that was good (amazing staff and Mac Jack!)The sentiment polarity of food is positive .
+They expanded the seating with a cozy new back section, added some great new dishes (I had the most fantastic j erk Shrimp and exciting maize crusted salmon) but kept everything that was good (amazing staff and Mac Jack!)The sentiment polarity of staff is positive .
+Not to mention that the busboy spilled 2 glasses of water on my back and the Manager was NOWHERE TO BE SEEN.The sentiment polarity of staff is negative .
+Not to mention that the busboy spilled 2 glasses of water on my back and the Manager was NOWHERE TO BE SEEN.The sentiment polarity of food is neutral .
+Smiling servers quiz diners with movie trivia, but forget to fill their water glasses.The sentiment polarity of staff is positive .
+Smiling servers quiz diners with movie trivia, but forget to fill their water glasses.The sentiment polarity of price is neutral .
+Smiling servers quiz diners with movie trivia, but forget to fill their water glasses.The sentiment polarity of miscellaneous is neutral .
+The waiter was miffed when we decided to order dessert (and I must say we were eating the courses as they arrived, no lingering).The sentiment polarity of staff is negative .
+The waiter was miffed when we decided to order dessert (and I must say we were eating the courses as they arrived, no lingering).The sentiment polarity of food is neutral .
+Heck even if they had awful service and atmosphere I would still come to this place for their dumplings, luckly that is not the case.The sentiment polarity of service is negative .
+Heck even if they had awful service and atmosphere I would still come to this place for their dumplings, luckly that is not the case.The sentiment polarity of ambience is negative .
+Heck even if they had awful service and atmosphere I would still come to this place for their dumplings, luckly that is not the case.The sentiment polarity of food is positive .
+Chef Anthony is warm and is always fixing up something unique and tasty in the kitchen to send to your table.The sentiment polarity of staff is positive .
+Chef Anthony is warm and is always fixing up something unique and tasty in the kitchen to send to your table.The sentiment polarity of miscellaneous is neutral .
+The menu features classic French bistro fare, like steamed mussels with French fries and hangar steak with a green peppercorn sauce.The sentiment polarity of menu is neutral .
+The menu features classic French bistro fare, like steamed mussels with French fries and hangar steak with a green peppercorn sauce.The sentiment polarity of food is positive .
+Had an after-work drink at the bar with a date, loved the place so much we came back for brunch the next morning.The sentiment polarity of food is neutral .
+Had an after-work drink at the bar with a date, loved the place so much we came back for brunch the next morning.The sentiment polarity of place is positive .
+The food was served promptly and was really hot.The sentiment polarity of food is positive .
+The food was served promptly and was really hot.The sentiment polarity of service is neutral .
+The kitchen is open and surrounded by bar seating (the only kind of seating), and they have a nice set-up where the waitress stays behind the bar and the chefs deliver your food after you have watched them prepare it.The sentiment polarity of place is positive .
+The kitchen is open and surrounded by bar seating (the only kind of seating), and they have a nice set-up where the waitress stays behind the bar and the chefs deliver your food after you have watched them prepare it.The sentiment polarity of service is neutral .
+The kitchen is open and surrounded by bar seating (the only kind of seating), and they have a nice set-up where the waitress stays behind the bar and the chefs deliver your food after you have watched them prepare it.The sentiment polarity of staff is positive .
+The kitchen is open and surrounded by bar seating (the only kind of seating), and they have a nice set-up where the waitress stays behind the bar and the chefs deliver your food after you have watched them prepare it.The sentiment polarity of food is neutral .
+I had been to Blue Fin previously for drinks and appetizers and thought the atmosphere was very good (expecially for people watching).The sentiment polarity of food is neutral .
+I had been to Blue Fin previously for drinks and appetizers and thought the atmosphere was very good (expecially for people watching).The sentiment polarity of ambience is positive .
+The bar downstairs is a lot of fun, so if you get stuck waiting, just have drink.The sentiment polarity of service is negative .
+The bar downstairs is a lot of fun, so if you get stuck waiting, just have drink.The sentiment polarity of food is neutral .
+The atmosphere was nice (tables were a bit too close together) and trendy, but waiters seemed rushed.The sentiment polarity of ambience is positive .
+The atmosphere was nice (tables were a bit too close together) and trendy, but waiters seemed rushed.The sentiment polarity of place is negative .
+We recently had brunch at this establishment with two other couples and I have to say I was majorly dissapointed with the service and how we were treated.The sentiment polarity of food is neutral .
+We recently had brunch at this establishment with two other couples and I have to say I was majorly dissapointed with the service and how we were treated.The sentiment polarity of service is negative .
+Although our waitress was pleasant and accomdating, the overpriced food was quite the opposite.The sentiment polarity of staff is positive .
+Although our waitress was pleasant and accomdating, the overpriced food was quite the opposite.The sentiment polarity of food is negative .
+Their desserts were limited - I mean REALLY limited to 2 items (nothing like the online menu).The sentiment polarity of food is negative .
+Their desserts were limited - I mean REALLY limited to 2 items (nothing like the online menu).The sentiment polarity of menu is neutral .
+My group got charged an outrageuos $63/person for a family-style dinner, including a 23% tip added for the horrible service.The sentiment polarity of food is neutral .
+My group got charged an outrageuos $63/person for a family-style dinner, including a 23% tip added for the horrible service.The sentiment polarity of service is negative .
+Bartenders look like model wannabes and threw out my friend's beer before he was finished (about 1/4 left).The sentiment polarity of staff is negative .
+Bartenders look like model wannabes and threw out my friend's beer before he was finished (about 1/4 left).The sentiment polarity of food is neutral .
+Perhaps if the owner manager would concentrate more on service then acting as a dj this restaurant would run better.The sentiment polarity of staff is neutral .
+Perhaps if the owner manager would concentrate more on service then acting as a dj this restaurant would run better.The sentiment polarity of service is negative .
+The food at Parish was tasy and well-prepared, but the portions were absurdly miniscule, especially in proportion to the prices.The sentiment polarity of food is positive .
+The food at Parish was tasy and well-prepared, but the portions were absurdly miniscule, especially in proportion to the prices.The sentiment polarity of miscellaneous is negative .
+The food at Parish was tasy and well-prepared, but the portions were absurdly miniscule, especially in proportion to the prices.The sentiment polarity of price is negative .
+There is actually space to breathe and the decor sets the tone for an intimate dinner.The sentiment polarity of place is neutral .
+There is actually space to breathe and the decor sets the tone for an intimate dinner.The sentiment polarity of ambience is positive .
+There is actually space to breathe and the decor sets the tone for an intimate dinner.The sentiment polarity of food is positive .
+The atmosphere was really nice and inviting but our waiter was awful!The sentiment polarity of ambience is positive .
+The atmosphere was really nice and inviting but our waiter was awful!The sentiment polarity of staff is negative .
+I always listen to the waiters' recommendations, because they're always awesome - either a special or just one of their faves off the menu.The sentiment polarity of staff is positive .
+I always listen to the waiters' recommendations, because they're always awesome - either a special or just one of their faves off the menu.The sentiment polarity of menu is neutral .
+The decor is sparse and elegant, the service warm (though my waitress was occasionally difficult to find), and the sushi fresh.The sentiment polarity of ambience is positive .
+The decor is sparse and elegant, the service warm (though my waitress was occasionally difficult to find), and the sushi fresh.The sentiment polarity of service is positive .
+The decor is sparse and elegant, the service warm (though my waitress was occasionally difficult to find), and the sushi fresh.The sentiment polarity of staff is negative .
+I waited 15 minutes for the waiter to take the bill from me and finally I got fed up with him walking past our table I had to start waving the bill in the air and finally some other waitress took our bill.The sentiment polarity of staff is negative .
+I waited 15 minutes for the waiter to take the bill from me and finally I got fed up with him walking past our table I had to start waving the bill in the air and finally some other waitress took our bill.The sentiment polarity of ambience is neutral .
+Yes, the wait is long and ridiculous as times, especially as you watch others gobble down their food.The sentiment polarity of service is negative .
+Yes, the wait is long and ridiculous as times, especially as you watch others gobble down their food.The sentiment polarity of food is neutral .
+considering the prices on the menu, i'd rather go somewhere else where they know how to refill water and real chairs for everyone, something you can even get at mcdonald's.The sentiment polarity of price is neutral .
+considering the prices on the menu, i'd rather go somewhere else where they know how to refill water and real chairs for everyone, something you can even get at mcdonald's.The sentiment polarity of menu is neutral .
+considering the prices on the menu, i'd rather go somewhere else where they know how to refill water and real chairs for everyone, something you can even get at mcdonald's.The sentiment polarity of food is neutral .
+considering the prices on the menu, i'd rather go somewhere else where they know how to refill water and real chairs for everyone, something you can even get at mcdonald's.The sentiment polarity of miscellaneous is positive .
+It was practically impossible to get the waitstaff's attention to order another bottle of wine.The sentiment polarity of staff is negative .
+It was practically impossible to get the waitstaff's attention to order another bottle of wine.The sentiment polarity of food is neutral .
+After spending over $500 on a business dinner, a manager knelt down at our table and asked us to quote, wrap it up and move to the bar.The sentiment polarity of food is neutral .
+After spending over $500 on a business dinner, a manager knelt down at our table and asked us to quote, wrap it up and move to the bar.The sentiment polarity of staff is negative .
+After spending over $500 on a business dinner, a manager knelt down at our table and asked us to quote, wrap it up and move to the bar.The sentiment polarity of miscellaneous is neutral .
+After spending over $500 on a business dinner, a manager knelt down at our table and asked us to quote, wrap it up and move to the bar.The sentiment polarity of place is neutral .
+Friendly staff happily accepted a reservation (for 10), and when only 6 showed up, they couldn't have been more understanding!The sentiment polarity of staff is positive .
+Friendly staff happily accepted a reservation (for 10), and when only 6 showed up, they couldn't have been more understanding!The sentiment polarity of miscellaneous is neutral .
+At our table we didn't get any bread until 30 minutes into the seating, which may I emphasize the waiter took really long to come to our table, about 20 minutes.The sentiment polarity of place is neutral .
+At our table we didn't get any bread until 30 minutes into the seating, which may I emphasize the waiter took really long to come to our table, about 20 minutes.The sentiment polarity of staff is negative .
+Recently I purchased a dish to go, and found that all of my meal contained just one large piece of ginger root.The sentiment polarity of food is neutral .
+Recently I purchased a dish to go, and found that all of my meal contained just one large piece of ginger root.The sentiment polarity of miscellaneous is negative .
+The numbness in your lower legs from sitting on old wood chairs is more than compensated by the wonderful food.The sentiment polarity of miscellaneous is negative .
+The numbness in your lower legs from sitting on old wood chairs is more than compensated by the wonderful food.The sentiment polarity of food is positive .
+We were able to reserve a spot at the chef tasting bar with Morimoto who actually called in sick that night, but we were still charged full price.The sentiment polarity of place is positive .
+We were able to reserve a spot at the chef tasting bar with Morimoto who actually called in sick that night, but we were still charged full price.The sentiment polarity of price is negative .
+Went here for a casual Sunday night dinner at 7:45pm; dinner was served at 10:15pm!The sentiment polarity of miscellaneous is neutral .
+Went here for a casual Sunday night dinner at 7:45pm; dinner was served at 10:15pm!The sentiment polarity of service is negative .
+Then, the waitress gave my wife coffee with regular milk in it even though my wife specifically requested Soy Milk.The sentiment polarity of staff is negative .
+Then, the waitress gave my wife coffee with regular milk in it even though my wife specifically requested Soy Milk.The sentiment polarity of food is neutral .
+I thought I'd give the new place a try since it had an expanded menu and a more legit look.The sentiment polarity of place is neutral .
+I thought I'd give the new place a try since it had an expanded menu and a more legit look.The sentiment polarity of menu is positive .
+*There is a pre-theatre dinner menu for early diners that is of great value.The sentiment polarity of menu is positive .
+*There is a pre-theatre dinner menu for early diners that is of great value.The sentiment polarity of price is neutral .
+The prixe fix menu was a deal to boost downtown restaurants, atleast we didn't pay the full price.The sentiment polarity of menu is positive .
+The prixe fix menu was a deal to boost downtown restaurants, atleast we didn't pay the full price.The sentiment polarity of price is negative .
+The steak au poivre certainly lives up to its lofty reputation, but it shuoldn't overshadow many of the other delicacies on the menu, such as the crab cakes and the frisee salad.The sentiment polarity of food is positive .
+The steak au poivre certainly lives up to its lofty reputation, but it shuoldn't overshadow many of the other delicacies on the menu, such as the crab cakes and the frisee salad.The sentiment polarity of menu is neutral .
+Waiter was a strange bird and when told we wanted to enjoy our dining experience and not be rushed through dinner, he assured us it takes 30 minutes to get entrees once food was ordered.The sentiment polarity of staff is negative .
+Waiter was a strange bird and when told we wanted to enjoy our dining experience and not be rushed through dinner, he assured us it takes 30 minutes to get entrees once food was ordered.The sentiment polarity of food is positive .
+This is not haute cuisine, but that' part of what I love about it - it has an honest, intimate feel with no pretensions, just like eating in an Italian family's home.The sentiment polarity of food is negative .
+This is not haute cuisine, but that' part of what I love about it - it has an honest, intimate feel with no pretensions, just like eating in an Italian family's home.The sentiment polarity of miscellaneous is positive .
+The food was so-so and you would think it was a french resturant, the portions were so tiny.The sentiment polarity of food is neutral .
+The food was so-so and you would think it was a french resturant, the portions were so tiny.The sentiment polarity of miscellaneous is negative .
+Eventually another waiter cleaned up the table and allowed us to sit there.The sentiment polarity of staff is positive .
+Eventually another waiter cleaned up the table and allowed us to sit there.The sentiment polarity of miscellaneous is neutral .
+However the hostess completely ignored us, we waited 40 min at the bar (even with reservation), our waitress was incredibly uninterested in us (never even offered dessert menus) and the somelier could have taken a look at the label before he made a mistake about his favorite wine.The sentiment polarity of staff is negative .
+However the hostess completely ignored us, we waited 40 min at the bar (even with reservation), our waitress was incredibly uninterested in us (never even offered dessert menus) and the somelier could have taken a look at the label before he made a mistake about his favorite wine.The sentiment polarity of place is neutral .
+However the hostess completely ignored us, we waited 40 min at the bar (even with reservation), our waitress was incredibly uninterested in us (never even offered dessert menus) and the somelier could have taken a look at the label before he made a mistake about his favorite wine.The sentiment polarity of miscellaneous is neutral .
+seems everyone ordered sushi there were tons of delivery orders (we can tell as we sat near the back).The sentiment polarity of food is neutral .
+seems everyone ordered sushi there were tons of delivery orders (we can tell as we sat near the back).The sentiment polarity of service is positive .
+small price to pay to have dinner on a Saturday night in downtown Manhattan.The sentiment polarity of price is positive .
+small price to pay to have dinner on a Saturday night in downtown Manhattan.The sentiment polarity of food is neutral .
+The Scene Flanked by a diner-style bar on one side and glass cases of sweets on the other, General Store resembles a cozy mom-and-pop rest stop on the way through Pennsylvania Dutch country--minus the cheesy gift shop.The sentiment polarity of miscellaneous is positive .
+The Scene Flanked by a diner-style bar on one side and glass cases of sweets on the other, General Store resembles a cozy mom-and-pop rest stop on the way through Pennsylvania Dutch country--minus the cheesy gift shop.The sentiment polarity of place is neutral .
+Since it's a small place, it's best to get there early for dinner as the wait can be quite long if you don't make a reservation.The sentiment polarity of service is negative .
+Since it's a small place, it's best to get there early for dinner as the wait can be quite long if you don't make a reservation.The sentiment polarity of miscellaneous is neutral .
+The interior is understated making it special enough to take a date but easy enough to stop in anytime for dinner or snack.The sentiment polarity of place is positive .
+The interior is understated making it special enough to take a date but easy enough to stop in anytime for dinner or snack.The sentiment polarity of food is neutral .
+The prices are incredibly reasonable, especially considering the HUGE portions - by noodle soup could have fed both my husband and myself.The sentiment polarity of miscellaneous is positive .
+The prices are incredibly reasonable, especially considering the HUGE portions - by noodle soup could have fed both my husband and myself.The sentiment polarity of food is neutral .
+There is a huge line, usually a 45 minute wait; they take no reservations and no tables of more than five people.The sentiment polarity of service is neutral .
+There is a huge line, usually a 45 minute wait; they take no reservations and no tables of more than five people.The sentiment polarity of miscellaneous is negative .
+There is a huge line, usually a 45 minute wait; they take no reservations and no tables of more than five people.The sentiment polarity of place is negative .
+The pizzas are a MUST TRY, hence the name.The sentiment polarity of food is positive .
+The pizzas are a MUST TRY, hence the name.The sentiment polarity of miscellaneous is neutral .
+The situation was verified by taking 3 dishes that were over an hour late off the bill and free desserts and coffee but the experience left most of us never wanting to go to the supposed hip cool 66 ever again.The sentiment polarity of food is positive .
+The situation was verified by taking 3 dishes that were over an hour late off the bill and free desserts and coffee but the experience left most of us never wanting to go to the supposed hip cool 66 ever again.The sentiment polarity of price is neutral .
+I went there with family and even though we had reservations, we were seated 30 minutes late, the food took 45 minutes to arrive and when I got the wrong order, I had a hard time trying to find the server.The sentiment polarity of miscellaneous is neutral .
+I went there with family and even though we had reservations, we were seated 30 minutes late, the food took 45 minutes to arrive and when I got the wrong order, I had a hard time trying to find the server.The sentiment polarity of food is neutral .
+I went there with family and even though we had reservations, we were seated 30 minutes late, the food took 45 minutes to arrive and when I got the wrong order, I had a hard time trying to find the server.The sentiment polarity of staff is negative .
+The wait was much shorter than the hostess quoted, which was great.The sentiment polarity of service is positive .
+The wait was much shorter than the hostess quoted, which was great.The sentiment polarity of staff is neutral .
+Though the menu is brief, entrees range from a deeply satisfying, wintry seared calf's liver with oven-dried tomatoes to a much lighter striped bass drizzled with textbook perfect beurre blanc.The sentiment polarity of menu is neutral .
+Though the menu is brief, entrees range from a deeply satisfying, wintry seared calf's liver with oven-dried tomatoes to a much lighter striped bass drizzled with textbook perfect beurre blanc.The sentiment polarity of food is positive .
+When we got our food, the waitress barely said a word as she placed our take-out on the table and grabbed the check.The sentiment polarity of food is neutral .
+When we got our food, the waitress barely said a word as she placed our take-out on the table and grabbed the check.The sentiment polarity of staff is negative .
+When we got our food, the waitress barely said a word as she placed our take-out on the table and grabbed the check.The sentiment polarity of price is neutral .
+Dropped in for a quick bite with a friend -- like the previous reviewer it took more than 15 minutes for any kind of service at all (including getting water) and then another 45 minutes to get a burger (which admittedly was good).The sentiment polarity of service is negative .
+Dropped in for a quick bite with a friend -- like the previous reviewer it took more than 15 minutes for any kind of service at all (including getting water) and then another 45 minutes to get a burger (which admittedly was good).The sentiment polarity of food is neutral .
+However, it takes ages to get seated (even with a reservation), and the waiters don't seem very knowledgeable about the menu (or receptive to questions).The sentiment polarity of miscellaneous is neutral .
+However, it takes ages to get seated (even with a reservation), and the waiters don't seem very knowledgeable about the menu (or receptive to questions).The sentiment polarity of staff is negative .
+The only complaint I have is that the tables for 2 along the booth are very close together so it wasn't as romantic a dinner as we wanted but all in all, we were in our own world, more like in heaven.The sentiment polarity of place is neutral .
+The only complaint I have is that the tables for 2 along the booth are very close together so it wasn't as romantic a dinner as we wanted but all in all, we were in our own world, more like in heaven.The sentiment polarity of food is negative .
+Ok the manager did stand at the bar the whole time looking like his wife left him, he lost all his money at the track and had been drinking the rest of the day.The sentiment polarity of staff is negative .
+Ok the manager did stand at the bar the whole time looking like his wife left him, he lost all his money at the track and had been drinking the rest of the day.The sentiment polarity of place is neutral .
+We complained to our waiter serveral times about this and the stares continued and to top it all off as the manager walked around to each table asking if they enjoyed their dinner, he conveniently did not ask us!The sentiment polarity of staff is neutral .
+We complained to our waiter serveral times about this and the stares continued and to top it all off as the manager walked around to each table asking if they enjoyed their dinner, he conveniently did not ask us!The sentiment polarity of miscellaneous is neutral .
+We complained to our waiter serveral times about this and the stares continued and to top it all off as the manager walked around to each table asking if they enjoyed their dinner, he conveniently did not ask us!The sentiment polarity of food is positive .
+He is a gracious chef who comes to the table and greets the guests.The sentiment polarity of staff is positive .
+He is a gracious chef who comes to the table and greets the guests.The sentiment polarity of miscellaneous is neutral .
+By dessert, I gave up and sat there hopelessly watching as my rice pudding was snatched away half eaten, only to be replaced immediately with a hefty bill.The sentiment polarity of food is neutral .
+By dessert, I gave up and sat there hopelessly watching as my rice pudding was snatched away half eaten, only to be replaced immediately with a hefty bill.The sentiment polarity of price is negative .
+The waiter said they mixed it up because there were three similar things on the menu.The sentiment polarity of staff is negative .
+The waiter said they mixed it up because there were three similar things on the menu.The sentiment polarity of menu is neutral .
+) Scores of employees walking around, but no one seems to clear a plate or offer more drinks.The sentiment polarity of staff is negative .
+) Scores of employees walking around, but no one seems to clear a plate or offer more drinks.The sentiment polarity of food is neutral .
+The manager also managed to insult one of my dining partners, even using an expletive to mock his last name when returning his credit card.The sentiment polarity of staff is negative .
+The manager also managed to insult one of my dining partners, even using an expletive to mock his last name when returning his credit card.The sentiment polarity of food is neutral .
+Once we were seated our water order was taken promptly but they never came back with a menu.The sentiment polarity of miscellaneous is positive .
+Once we were seated our water order was taken promptly but they never came back with a menu.The sentiment polarity of menu is negative .
+The waiter told us that he had checked with the kitchen because he noticed that we had not gotten our dinners and they said it would be out shortly, shouldn't someone have said something to us?The sentiment polarity of staff is negative .
+The waiter told us that he had checked with the kitchen because he noticed that we had not gotten our dinners and they said it would be out shortly, shouldn't someone have said something to us?The sentiment polarity of food is neutral .
+First of all, I think our service person was miffed that we couldn't order much for apps or drinks since we had already started at the bar.The sentiment polarity of service is negative .
+First of all, I think our service person was miffed that we couldn't order much for apps or drinks since we had already started at the bar.The sentiment polarity of food is neutral .
+First of all, I think our service person was miffed that we couldn't order much for apps or drinks since we had already started at the bar.The sentiment polarity of place is neutral .
+You have to be comfortable eating with your hands, sharing the same plate with your friends and be able to handle spicy food (not as spicy as some thai dishes though).The sentiment polarity of miscellaneous is neutral .
+You have to be comfortable eating with your hands, sharing the same plate with your friends and be able to handle spicy food (not as spicy as some thai dishes though).The sentiment polarity of food is positive .
+however, we went for lunch and were the only ones eating there and yet the service seemed eager for us to be done and to get out.The sentiment polarity of food is neutral .
+however, we went for lunch and were the only ones eating there and yet the service seemed eager for us to be done and to get out.The sentiment polarity of service is negative .
+Although the service was top notch, all of the food was disappointing: burnt octopus, bland ravioli, odd tasting mint love letters.The sentiment polarity of service is positive .
+Although the service was top notch, all of the food was disappointing: burnt octopus, bland ravioli, odd tasting mint love letters.The sentiment polarity of food is negative .
+The portions were overly generous for both the apps and entrees without sacrificing the quality.The sentiment polarity of miscellaneous is negative .
+The portions were overly generous for both the apps and entrees without sacrificing the quality.The sentiment polarity of food is positive .
+We arrived on a Thursday night at 6:30 and were seated immediately (they don't take reservations), but, this small place filled up very quickly, and the bar was overflowing with people when we left.The sentiment polarity of miscellaneous is neutral .
+We arrived on a Thursday night at 6:30 and were seated immediately (they don't take reservations), but, this small place filled up very quickly, and the bar was overflowing with people when we left.The sentiment polarity of place is negative .
+The place was packed, but it didn't effect our service or getting our food/drinks promptly.The sentiment polarity of place is negative .
+The place was packed, but it didn't effect our service or getting our food/drinks promptly.The sentiment polarity of service is positive .
+The menu is slightly different from downtown, but they still have my favorites -- madai salad with hot sesame oil, shrimp kanzuri, the diamond roll, the crispy shrimp roll.The sentiment polarity of menu is neutral .
+The menu is slightly different from downtown, but they still have my favorites -- madai salad with hot sesame oil, shrimp kanzuri, the diamond roll, the crispy shrimp roll.The sentiment polarity of food is positive .
+But servers, attentive if slightly unpolished, gladly direct inquisitors to menu strengths--like rum-flambeed dessert bananas foster--and allow leisurely enjoyment.The sentiment polarity of staff is positive .
+But servers, attentive if slightly unpolished, gladly direct inquisitors to menu strengths--like rum-flambeed dessert bananas foster--and allow leisurely enjoyment.The sentiment polarity of menu is neutral .
+SO I ASKED, TO SPEAK TO THE MANAGER, AND ONE OF THE OWNER WHO MANAGES THE PLACE CAME TO MY TABLE, TOLD ME THAT THE CEVICHE WAS FRESH.The sentiment polarity of staff is neutral .
+SO I ASKED, TO SPEAK TO THE MANAGER, AND ONE OF THE OWNER WHO MANAGES THE PLACE CAME TO MY TABLE, TOLD ME THAT THE CEVICHE WAS FRESH.The sentiment polarity of food is positive .
+It is far more popular as a bar than as a restaurant, with only a few tables and the waiter being the bartender, but we greatly enjoyed the unobtrusive atmosphere.The sentiment polarity of place is neutral .
+It is far more popular as a bar than as a restaurant, with only a few tables and the waiter being the bartender, but we greatly enjoyed the unobtrusive atmosphere.The sentiment polarity of ambience is positive .
+Spoke with the manager about comping a round, after we had already paid for 2 rounds waiting for the table.The sentiment polarity of staff is negative .
+Spoke with the manager about comping a round, after we had already paid for 2 rounds waiting for the table.The sentiment polarity of service is neutral .
+Spoke with the manager about comping a round, after we had already paid for 2 rounds waiting for the table.The sentiment polarity of miscellaneous is neutral .
+For example, we had ordered a 2nd bottle of red wine, the waitress gave me a new glass to taste the wine, but filled up my existing glass (mixing two different bottles in one glass).The sentiment polarity of food is neutral .
+For example, we had ordered a 2nd bottle of red wine, the waitress gave me a new glass to taste the wine, but filled up my existing glass (mixing two different bottles in one glass).The sentiment polarity of staff is negative .
+As for the main attraction, the pies are known for their crisp outer edge and gooey middle, and feature the unorthodox layering of sauce over mozzarella.The sentiment polarity of miscellaneous is positive .
+As for the main attraction, the pies are known for their crisp outer edge and gooey middle, and feature the unorthodox layering of sauce over mozzarella.The sentiment polarity of food is neutral .
+The high prices and small portions reflect the hype of a new Battali restaurant as well as the cache that comes with having to make a reservation a week in advance only to wait to be seated.The sentiment polarity of price is negative .
+The high prices and small portions reflect the hype of a new Battali restaurant as well as the cache that comes with having to make a reservation a week in advance only to wait to be seated.The sentiment polarity of miscellaneous is neutral .
+I've never been during the dinner rush, whence I think most of the service complaints originate.The sentiment polarity of food is neutral .
+I've never been during the dinner rush, whence I think most of the service complaints originate.The sentiment polarity of service is negative .
+the atmosphere is trendy, i think it's better to come here for a drink rather than dinner.The sentiment polarity of ambience is positive .
+the atmosphere is trendy, i think it's better to come here for a drink rather than dinner.The sentiment polarity of food is neutral .
+Our dinner took over two hours because of the slow service.The sentiment polarity of food is neutral .
+Our dinner took over two hours because of the slow service.The sentiment polarity of service is negative .
+Weekday lunch is less crowded and the staff cheerfully tolerated a 3-year-old.The sentiment polarity of food is neutral .
+Weekday lunch is less crowded and the staff cheerfully tolerated a 3-year-old.The sentiment polarity of staff is positive .
+Although the prices is a bit on the high, you do get big portions for it.The sentiment polarity of price is negative .
+Although the prices is a bit on the high, you do get big portions for it.The sentiment polarity of miscellaneous is positive .
+It was my birthday and although they came out with of a bottle of bub, I felt embarrassed about the lack of service.The sentiment polarity of miscellaneous is neutral .
+It was my birthday and although they came out with of a bottle of bub, I felt embarrassed about the lack of service.The sentiment polarity of service is negative .
+Favorites include the Curry Shrimp w/ Mushrooms, Watercress Salad (not listed on menu), and Kao Soy noodle soup with chicken.The sentiment polarity of food is positive .
+Favorites include the Curry Shrimp w/ Mushrooms, Watercress Salad (not listed on menu), and Kao Soy noodle soup with chicken.The sentiment polarity of menu is neutral .
+The staff beginning with the tall gentleman at the door, waiters, etc.The sentiment polarity of staff is negative .
+The staff beginning with the tall gentleman at the door, waiters, etc.The sentiment polarity of miscellaneous is neutral .
+The food and service was top notch, only the complain is that this place is so small that some seats are not made for a big guy.The sentiment polarity of food is positive .
+The food and service was top notch, only the complain is that this place is so small that some seats are not made for a big guy.The sentiment polarity of service is positive .
+The food and service was top notch, only the complain is that this place is so small that some seats are not made for a big guy.The sentiment polarity of miscellaneous is negative .
+The food and service was top notch, only the complain is that this place is so small that some seats are not made for a big guy.The sentiment polarity of staff is negative .
+No bar only a waiting area with about 10 tables where you can have drinks prior to dinner.The sentiment polarity of place is negative .
+No bar only a waiting area with about 10 tables where you can have drinks prior to dinner.The sentiment polarity of food is neutral .
+The hostess was condescending and the waiter was somewhat absent and unaccomodating (sure, we made a reservation to sit outside but when I asked to be moved indoors after I heard thunder he didn't even try to make it happen, giving me a blank stare and a shrug when I asked what we would do if it rained).The sentiment polarity of staff is negative .
+The hostess was condescending and the waiter was somewhat absent and unaccomodating (sure, we made a reservation to sit outside but when I asked to be moved indoors after I heard thunder he didn't even try to make it happen, giving me a blank stare and a shrug when I asked what we would do if it rained).The sentiment polarity of miscellaneous is neutral .
+The pieces were small but the fish was good quality and there wasn't a lot of rice to mess with.The sentiment polarity of food is negative .
+The pieces were small but the fish was good quality and there wasn't a lot of rice to mess with.The sentiment polarity of miscellaneous is positive .
+Miyagi is my sushi restaurant of choice in the Village; it's never insanely crowded, the service is very sweet (I've never experienced any of the nastiness described in prior reviews), and the tabs are small.The sentiment polarity of service is positive .
+Miyagi is my sushi restaurant of choice in the Village; it's never insanely crowded, the service is very sweet (I've never experienced any of the nastiness described in prior reviews), and the tabs are small.The sentiment polarity of miscellaneous is negative .
+although the food was good, the wait was so long; extremely snobby about seating you, we waited 45 min + for our reservation.The sentiment polarity of food is positive .
+although the food was good, the wait was so long; extremely snobby about seating you, we waited 45 min + for our reservation.The sentiment polarity of place is negative .
+I was told(very snottily) no, but then not even 10 minutes later another group of people came in, asked the same thing and because the same woman waiter knew them she gave them regular menus!The sentiment polarity of staff is negative .
+I was told(very snottily) no, but then not even 10 minutes later another group of people came in, asked the same thing and because the same woman waiter knew them she gave them regular menus!The sentiment polarity of menu is neutral .
+It's so out there that it works--black-clad raver waiters and all--and even the most normal of groups love getting together for dinner and popular brunching on the palm-lined backyard patio spread.The sentiment polarity of staff is positive .
+It's so out there that it works--black-clad raver waiters and all--and even the most normal of groups love getting together for dinner and popular brunching on the palm-lined backyard patio spread.The sentiment polarity of food is neutral .
+The waitress came to our table and told us about their tempting specials.The sentiment polarity of staff is positive .
+The waitress came to our table and told us about their tempting specials.The sentiment polarity of miscellaneous is neutral .
+The waitress came to our table and told us about their tempting specials.The sentiment polarity of food is positive .
+We asked the server for two glasses with a splash of Southern Comfort and Grand Marnier.The sentiment polarity of staff is neutral .
+We asked the server for two glasses with a splash of Southern Comfort and Grand Marnier.The sentiment polarity of food is positive .
+throughout the whole meal, all I kept thinking was AVERAGE, AVERAGE, AVERAGE until the bill came, which was a little more than average,to say the least.The sentiment polarity of food is neutral .
+throughout the whole meal, all I kept thinking was AVERAGE, AVERAGE, AVERAGE until the bill came, which was a little more than average,to say the least.The sentiment polarity of price is negative .
+We hung out by the bar mostly to ourselves, not an overwelming social crowd, but there were some georgous groups of hipsters looking like it was their meeting up before going out to the clubs (a few of the girls looked like top models), but the vibe was real chill.The sentiment polarity of place is neutral .
+We hung out by the bar mostly to ourselves, not an overwelming social crowd, but there were some georgous groups of hipsters looking like it was their meeting up before going out to the clubs (a few of the girls looked like top models), but the vibe was real chill.The sentiment polarity of miscellaneous is negative .
+The food is right out of heaven, arrive hungry because the portions are huge but not the prices.The sentiment polarity of food is positive .
+The food is right out of heaven, arrive hungry because the portions are huge but not the prices.The sentiment polarity of miscellaneous is positive .
+The food is right out of heaven, arrive hungry because the portions are huge but not the prices.The sentiment polarity of price is negative .
+Went to celebrate my sisters birthday on 9/11 was 1st taken back on the waiters rude answering of a question we had about the menu.The sentiment polarity of staff is negative .
+Went to celebrate my sisters birthday on 9/11 was 1st taken back on the waiters rude answering of a question we had about the menu.The sentiment polarity of menu is neutral .
+There is no bar so therefore no place to wait except the lounge that was packed so after wondering where to stand the hostess grabbed us.The sentiment polarity of place is neutral .
+There is no bar so therefore no place to wait except the lounge that was packed so after wondering where to stand the hostess grabbed us.The sentiment polarity of staff is negative .
+Before leaving the server gave us takeout menus.The sentiment polarity of staff is positive .
+Before leaving the server gave us takeout menus.The sentiment polarity of menu is neutral .
+Service is one thing but a restaurant like Craft needs to have much better quality food for the price they charge.The sentiment polarity of service is neutral .
+Service is one thing but a restaurant like Craft needs to have much better quality food for the price they charge.The sentiment polarity of food is positive .
+I would recommend going at off-times (before 7 perhaps) to avoid the crowds as it gets packed and there isn't much room by the bar.The sentiment polarity of miscellaneous is negative .
+I would recommend going at off-times (before 7 perhaps) to avoid the crowds as it gets packed and there isn't much room by the bar.The sentiment polarity of place is neutral .
+The service was polite, friendly and prompt, the characters walking around entertained the kids but werent intrusive to our meal.The sentiment polarity of service is positive .
+The service was polite, friendly and prompt, the characters walking around entertained the kids but werent intrusive to our meal.The sentiment polarity of food is neutral .
+If you've been out partying and have a yen for quality Korean food at 3:00am, there's a table waiting for you at Kang Suh Restaurant.The sentiment polarity of food is positive .
+If you've been out partying and have a yen for quality Korean food at 3:00am, there's a table waiting for you at Kang Suh Restaurant.The sentiment polarity of service is neutral .
+And that is a shame as the restaurant is a pizzeria with a very limited menu outside of pizza.The sentiment polarity of menu is negative .
+And that is a shame as the restaurant is a pizzeria with a very limited menu outside of pizza.The sentiment polarity of food is neutral .
+The waiter just slapped my food down and then never returned until he slapped my check down.The sentiment polarity of staff is negative .
+The waiter just slapped my food down and then never returned until he slapped my check down.The sentiment polarity of food is neutral .
+The bartenders could have been a lot nicer but the drinks they shook up kind of made up for their poor attitude.The sentiment polarity of staff is negative .
+The bartenders could have been a lot nicer but the drinks they shook up kind of made up for their poor attitude.The sentiment polarity of food is positive .
+The bartenders could have been a lot nicer but the drinks they shook up kind of made up for their poor attitude.The sentiment polarity of service is negative .
+there's always people waiting to be seated and the chairs are not comfortable.The sentiment polarity of service is neutral .
+there's always people waiting to be seated and the chairs are not comfortable.The sentiment polarity of miscellaneous is negative .
+Hillarious lighting and ecclectic side dishes make you want to love the place, but the meal on the whole was abyssmal.The sentiment polarity of place is positive .
+Hillarious lighting and ecclectic side dishes make you want to love the place, but the meal on the whole was abyssmal.The sentiment polarity of food is negative .
+The waiter returned seconds later to complain that dozens of people wanted our table then poured her beer into a paper cup-- presumably to encourage us to leave faster.The sentiment polarity of staff is negative .
+The waiter returned seconds later to complain that dozens of people wanted our table then poured her beer into a paper cup-- presumably to encourage us to leave faster.The sentiment polarity of miscellaneous is neutral .
+The Food The menu ably pulls off Bistro 101: The generous cheese plate makes a big enough starter for at least three people to share, and French onion soup is rich and decadent.The sentiment polarity of food is positive .
+The Food The menu ably pulls off Bistro 101: The generous cheese plate makes a big enough starter for at least three people to share, and French onion soup is rich and decadent.The sentiment polarity of menu is neutral .
+However for the price I paid to have dinner there, you would have thought I ate a horse.The sentiment polarity of price is negative .
+However for the price I paid to have dinner there, you would have thought I ate a horse.The sentiment polarity of food is neutral .
+All this Asian fusion craze leaves one feeling like they should've went to an authentic Thai or Indian restaurant for probably 1/3 of the price of Spice Market.The sentiment polarity of food is positive .
+All this Asian fusion craze leaves one feeling like they should've went to an authentic Thai or Indian restaurant for probably 1/3 of the price of Spice Market.The sentiment polarity of price is neutral .
+I went with a friend from out the town - the best thing on the menu was the Veal.The sentiment polarity of menu is neutral .
+I went with a friend from out the town - the best thing on the menu was the Veal.The sentiment polarity of food is positive .
+The waitstaff is helpful and they'll get your favorite meats to circle your table more often if you just ask.The sentiment polarity of staff is positive .
+The waitstaff is helpful and they'll get your favorite meats to circle your table more often if you just ask.The sentiment polarity of food is positive .
+The waitstaff is helpful and they'll get your favorite meats to circle your table more often if you just ask.The sentiment polarity of miscellaneous is neutral .
+One server came and gave us food that turned out to be someone else's.The sentiment polarity of staff is negative .
+One server came and gave us food that turned out to be someone else's.The sentiment polarity of food is neutral .
+The food is not large and I could have had a few slices of pizza after I left.The sentiment polarity of food is negative .
+The food is not large and I could have had a few slices of pizza after I left.The sentiment polarity of miscellaneous is neutral .
+Our experience consistently reflected a lazy attitude by the house towards cooking technique and customer care.The sentiment polarity of service is positive .
+Our experience consistently reflected a lazy attitude by the house towards cooking technique and customer care.The sentiment polarity of food is neutral .
+It appeared that they used a cheese pizza cooked earlier that day or the day before and just added the raw topping to it, then delivered it.The sentiment polarity of food is neutral .
+It appeared that they used a cheese pizza cooked earlier that day or the day before and just added the raw topping to it, then delivered it.The sentiment polarity of miscellaneous is negative .
+The wine did not come until we were half way through our entree and the waitress overcharged us by a bottle of wine.The sentiment polarity of food is neutral .
+The wine did not come until we were half way through our entree and the waitress overcharged us by a bottle of wine.The sentiment polarity of staff is negative .
+service is good although a bit in your face, we were asked every five mins if food was ok, but better that than being ignored.The sentiment polarity of service is positive .
+service is good although a bit in your face, we were asked every five mins if food was ok, but better that than being ignored.The sentiment polarity of food is neutral .
+Enjoy the food, because it is remarkable, but don't be too willing to be gratuitis to a server that does not deserve it.The sentiment polarity of food is positive .
+Enjoy the food, because it is remarkable, but don't be too willing to be gratuitis to a server that does not deserve it.The sentiment polarity of staff is negative .
+The waiter placed the wrong entree in front of us each time.The sentiment polarity of staff is neutral .
+The waiter placed the wrong entree in front of us each time.The sentiment polarity of food is negative .
+The Romano family is very hands on with the father supervising the kitchen and Santo, the son, running the room with a high degree of personal attention.The sentiment polarity of miscellaneous is positive .
+The Romano family is very hands on with the father supervising the kitchen and Santo, the son, running the room with a high degree of personal attention.The sentiment polarity of place is neutral .
+Gia Lam I' s service is not much better but the food was.The sentiment polarity of service is negative .
+Gia Lam I' s service is not much better but the food was.The sentiment polarity of food is positive .
+The atmosphere was warm, sexy, and very romantic but the lighting wasn't good for reading the menu.The sentiment polarity of ambience is positive .
+The atmosphere was warm, sexy, and very romantic but the lighting wasn't good for reading the menu.The sentiment polarity of menu is neutral .
+Forget the phony yuppies of Areos and The Pearl Room, and ENJOY the down home service and OUTSTANDING food here.The sentiment polarity of place is neutral .
+Forget the phony yuppies of Areos and The Pearl Room, and ENJOY the down home service and OUTSTANDING food here.The sentiment polarity of service is positive .
+Forget the phony yuppies of Areos and The Pearl Room, and ENJOY the down home service and OUTSTANDING food here.The sentiment polarity of food is positive .
+The wait was long which is understandable but the waiters were rude to us while we waited, rushed us to order, ignored us while we ate and needed more drinks, and rushed us when they wanted the table for another couple.The sentiment polarity of staff is negative .
+The wait was long which is understandable but the waiters were rude to us while we waited, rushed us to order, ignored us while we ate and needed more drinks, and rushed us when they wanted the table for another couple.The sentiment polarity of food is neutral .
+The wait was long which is understandable but the waiters were rude to us while we waited, rushed us to order, ignored us while we ate and needed more drinks, and rushed us when they wanted the table for another couple.The sentiment polarity of miscellaneous is neutral .
+The Chinese menu is gone, along with most of the good dishes.The sentiment polarity of menu is neutral .
+The Chinese menu is gone, along with most of the good dishes.The sentiment polarity of food is positive .
+the waiter was unable to identify whether certain cheeses from the cheese course were cow or goat milk.The sentiment polarity of staff is negative .
+the waiter was unable to identify whether certain cheeses from the cheese course were cow or goat milk.The sentiment polarity of food is neutral .
+Ziti Bolognese is baked in a similar sauce, with ground meat mixed in and cheese melted on top--the menu offers many variations on this theme.The sentiment polarity of food is neutral .
+Ziti Bolognese is baked in a similar sauce, with ground meat mixed in and cheese melted on top--the menu offers many variations on this theme.The sentiment polarity of menu is positive .
+I just got back from dinner from this UES hotspot - it is like a home away from home - delicious meals and a salad dressing that sometimes they let me have a tiny container of for my lunch at work salads - the price/ atmosphere/ cocktails (FULL BAR!!!The sentiment polarity of food is positive .
+I just got back from dinner from this UES hotspot - it is like a home away from home - delicious meals and a salad dressing that sometimes they let me have a tiny container of for my lunch at work salads - the price/ atmosphere/ cocktails (FULL BAR!!!The sentiment polarity of ambience is positive .
+I just got back from dinner from this UES hotspot - it is like a home away from home - delicious meals and a salad dressing that sometimes they let me have a tiny container of for my lunch at work salads - the price/ atmosphere/ cocktails (FULL BAR!!!The sentiment polarity of place is neutral .
+Food was served very promptly, but our wait for drinks was surprisingly long.The sentiment polarity of service is negative .
+Food was served very promptly, but our wait for drinks was surprisingly long.The sentiment polarity of food is neutral .
+While waiting there was no room for standing and the bar staff and their drinks were horrendous.The sentiment polarity of service is neutral .
+While waiting there was no room for standing and the bar staff and their drinks were horrendous.The sentiment polarity of staff is negative .
+While waiting there was no room for standing and the bar staff and their drinks were horrendous.The sentiment polarity of food is negative .
+The word chicken was barely out of my mouth when the waiter rushed away from my table without asking me about side orders or a drink.The sentiment polarity of food is neutral .
+The word chicken was barely out of my mouth when the waiter rushed away from my table without asking me about side orders or a drink.The sentiment polarity of staff is negative .
+The scene is pretty cool and the drinks are OK, but the food and service were pretty weak.The sentiment polarity of miscellaneous is positive .
+The scene is pretty cool and the drinks are OK, but the food and service were pretty weak.The sentiment polarity of food is positive .
+The scene is pretty cool and the drinks are OK, but the food and service were pretty weak.The sentiment polarity of service is negative .
+The decor maybe great for young kids but as an adult this place was an horrible experiance, it didn't bring the kid in me.The sentiment polarity of ambience is positive .
+The decor maybe great for young kids but as an adult this place was an horrible experiance, it didn't bring the kid in me.The sentiment polarity of place is negative .
+Del Frisco's is pricey and I was seated in a leper locker room area, but the food was totally fantastic.The sentiment polarity of place is negative .
+Del Frisco's is pricey and I was seated in a leper locker room area, but the food was totally fantastic.The sentiment polarity of food is positive .
+The waitress was no where to be found at all throughout the course of the meal, did not refill a single drink nor did she bother to inquire about my satisfaction with the food or even bring the check at the conclusion of the meal.The sentiment polarity of staff is negative .
+The waitress was no where to be found at all throughout the course of the meal, did not refill a single drink nor did she bother to inquire about my satisfaction with the food or even bring the check at the conclusion of the meal.The sentiment polarity of food is neutral .
+The four of us were seated in the outdoors patio(not requested) and suffered through a muddled menu, indifferent food, a below average waiter, as well as excessive noise, wind and cold.The sentiment polarity of menu is negative .
+The four of us were seated in the outdoors patio(not requested) and suffered through a muddled menu, indifferent food, a below average waiter, as well as excessive noise, wind and cold.The sentiment polarity of staff is negative .
+The four of us were seated in the outdoors patio(not requested) and suffered through a muddled menu, indifferent food, a below average waiter, as well as excessive noise, wind and cold.The sentiment polarity of ambience is negative .
+The four of us were seated in the outdoors patio(not requested) and suffered through a muddled menu, indifferent food, a below average waiter, as well as excessive noise, wind and cold.The sentiment polarity of miscellaneous is neutral .
+The waiter was rude to my friend when she asked for a small plate to share an appetizer.The sentiment polarity of staff is negative .
+The waiter was rude to my friend when she asked for a small plate to share an appetizer.The sentiment polarity of food is neutral .
+The service was slow (10 minutes for drinks??)The sentiment polarity of service is negative .
+The service was slow (10 minutes for drinks??)The sentiment polarity of food is neutral .
+True, the menu doesn't offer a wide range of choices and portions are not la all-you-can-eat, buffet style (but is that a negative thing after all?The sentiment polarity of menu is neutral .
+True, the menu doesn't offer a wide range of choices and portions are not la all-you-can-eat, buffet style (but is that a negative thing after all?The sentiment polarity of miscellaneous is negative .
+Our waiter, though he was charming,was too busy to truly take care of us properly and the food was over priced.The sentiment polarity of staff is positive .
+Our waiter, though he was charming,was too busy to truly take care of us properly and the food was over priced.The sentiment polarity of food is negative .
+The staff forgot my girlfriend's food altogether as she waited for half an hour.The sentiment polarity of staff is negative .
+The staff forgot my girlfriend's food altogether as she waited for half an hour.The sentiment polarity of food is neutral .
+We decided to get out of there and go to a safe place with bigger portions and normal food.The sentiment polarity of miscellaneous is positive .
+We decided to get out of there and go to a safe place with bigger portions and normal food.The sentiment polarity of food is neutral .
+One oversight: the gf wanted tea to go along with the plate of yummies they gave me, but the server forgot to bring it since we took our time to finish the wine.The sentiment polarity of miscellaneous is neutral .
+One oversight: the gf wanted tea to go along with the plate of yummies they gave me, but the server forgot to bring it since we took our time to finish the wine.The sentiment polarity of staff is negative .
+One oversight: the gf wanted tea to go along with the plate of yummies they gave me, but the server forgot to bring it since we took our time to finish the wine.The sentiment polarity of food is neutral .
+I have tried everything available on the AYCE menu, it has all been quite good (although I am not one to be especially particular with food, sushi in particular.The sentiment polarity of menu is neutral .
+I have tried everything available on the AYCE menu, it has all been quite good (although I am not one to be especially particular with food, sushi in particular.The sentiment polarity of food is positive .
+The service was not the greatest, but the place is huge and it has a nice setting.The sentiment polarity of service is negative .
+The service was not the greatest, but the place is huge and it has a nice setting.The sentiment polarity of place is positive .
+The service was not the greatest, but the place is huge and it has a nice setting.The sentiment polarity of ambience is positive .
+The service is not very good, but I find that we try Atlantic Grill at least once a year.The sentiment polarity of service is negative .
+The service is not very good, but I find that we try Atlantic Grill at least once a year.The sentiment polarity of food is positive .
+straining to read the menu under the low-lighting-tag-sale-chandelier motif, we were able to order a salad, tapas, and entrees from the first of several waiters, none of whom were able to introduce themselves, recommend dishes, present silverware, remove plates, or deliver water when asked.The sentiment polarity of menu is neutral .
+straining to read the menu under the low-lighting-tag-sale-chandelier motif, we were able to order a salad, tapas, and entrees from the first of several waiters, none of whom were able to introduce themselves, recommend dishes, present silverware, remove plates, or deliver water when asked.The sentiment polarity of food is neutral .
+straining to read the menu under the low-lighting-tag-sale-chandelier motif, we were able to order a salad, tapas, and entrees from the first of several waiters, none of whom were able to introduce themselves, recommend dishes, present silverware, remove plates, or deliver water when asked.The sentiment polarity of staff is negative .
+straining to read the menu under the low-lighting-tag-sale-chandelier motif, we were able to order a salad, tapas, and entrees from the first of several waiters, none of whom were able to introduce themselves, recommend dishes, present silverware, remove plates, or deliver water when asked.The sentiment polarity of miscellaneous is neutral .
+I came here b/c someone gave a trashy review to my favorite coffee place (Grey Dog's) and compared it to this place so I had to see for myself what was so great about 71.The sentiment polarity of place is positive .
+I came here b/c someone gave a trashy review to my favorite coffee place (Grey Dog's) and compared it to this place so I had to see for myself what was so great about 71.The sentiment polarity of miscellaneous is neutral .
+One night we landed at the bar for a late night dinner, and the hanger steak and frites w/ marjoram aioli was the BEST.The sentiment polarity of place is neutral .
+One night we landed at the bar for a late night dinner, and the hanger steak and frites w/ marjoram aioli was the BEST.The sentiment polarity of food is positive .
+I have to agree with the previous review that the atmosphere isn't much, but Mister Falafel can't be beat for quick, delicious, cheap takeout.The sentiment polarity of ambience is negative .
+I have to agree with the previous review that the atmosphere isn't much, but Mister Falafel can't be beat for quick, delicious, cheap takeout.The sentiment polarity of food is positive .
+However, you don't even really need the menu, because the daily specials are always tempting and delicious.The sentiment polarity of menu is neutral .
+However, you don't even really need the menu, because the daily specials are always tempting and delicious.The sentiment polarity of food is positive .
+The service is ok since it is new and the staff didn't know the food items too well.The sentiment polarity of service is positive .
+The service is ok since it is new and the staff didn't know the food items too well.The sentiment polarity of staff is negative .
+The service is ok since it is new and the staff didn't know the food items too well.The sentiment polarity of food is neutral .
+Another hostess came by and told us that since we were now 5 we were a different table and couldnt' stay.The sentiment polarity of staff is negative .
+Another hostess came by and told us that since we were now 5 we were a different table and couldnt' stay.The sentiment polarity of miscellaneous is neutral .
+We were even able to call in advance to make sure there was space at the bar because I was on crutches and the owner reserved the seats til we got there.The sentiment polarity of place is neutral .
+We were even able to call in advance to make sure there was space at the bar because I was on crutches and the owner reserved the seats til we got there.The sentiment polarity of staff is negative .
+We were even able to call in advance to make sure there was space at the bar because I was on crutches and the owner reserved the seats til we got there.The sentiment polarity of miscellaneous is neutral .
+Charming atmosphere that seats probably no moroe than 35.The sentiment polarity of ambience is positive .
+Charming atmosphere that seats probably no moroe than 35.The sentiment polarity of miscellaneous is neutral .
+We orderes and our food took about 1 hour to get it, after the long wait.The sentiment polarity of food is neutral .
+We orderes and our food took about 1 hour to get it, after the long wait.The sentiment polarity of service is negative .
+Be warned - between the pizza and spumoni the place is packed nightly in the summer.The sentiment polarity of food is neutral .
+Be warned - between the pizza and spumoni the place is packed nightly in the summer.The sentiment polarity of place is negative .
+We had hot buffalo tenders for an appetizer, and the waitress didn't bother to come back to check on how we were doing on drinks.The sentiment polarity of food is neutral .
+We had hot buffalo tenders for an appetizer, and the waitress didn't bother to come back to check on how we were doing on drinks.The sentiment polarity of staff is negative .
+The actors try to draw your attention away from the better stuff that is happening below.The sentiment polarity of miscellaneous is neutral .
+The actors try to draw your attention away from the better stuff that is happening below.The sentiment polarity of staff is positive .
+The small single room--wood panelling, large mirrors, white tablecloths, dim lighting--has few frills.The sentiment polarity of place is negative .
+The small single room--wood panelling, large mirrors, white tablecloths, dim lighting--has few frills.The sentiment polarity of miscellaneous is positive .
+our waiter forgot a dish and we were constantly checked on afterwards and treated to a complimentary dessert for the mix up.The sentiment polarity of staff is negative .
+our waiter forgot a dish and we were constantly checked on afterwards and treated to a complimentary dessert for the mix up.The sentiment polarity of food is neutral .
+our waiter forgot a dish and we were constantly checked on afterwards and treated to a complimentary dessert for the mix up.The sentiment polarity of miscellaneous is neutral .
+The staff had apparently booked the room for 2 groups with a 30 minute overlap.The sentiment polarity of staff is negative .
+The staff had apparently booked the room for 2 groups with a 30 minute overlap.The sentiment polarity of place is neutral .
+The staff had apparently booked the room for 2 groups with a 30 minute overlap.The sentiment polarity of miscellaneous is neutral .
+And price is over value for two persons dinner $ 90.The sentiment polarity of price is negative .
+And price is over value for two persons dinner $ 90.The sentiment polarity of food is neutral .
+The owners are incredibly nice too, comping pitchers of margaritas if you sit there and eat for a couple of hours.The sentiment polarity of staff is positive .
+The owners are incredibly nice too, comping pitchers of margaritas if you sit there and eat for a couple of hours.The sentiment polarity of food is neutral .
+The atmosphere would have been almost perfect if it werent for the fact that we were seat right naext to the noisy kitchen but I guess the speedy service comes with a price.The sentiment polarity of place is negative .
+The atmosphere would have been almost perfect if it werent for the fact that we were seat right naext to the noisy kitchen but I guess the speedy service comes with a price.The sentiment polarity of service is positive .
+After my friend and I were seated, we were greeted by a gorgeous waitress, who helped us make our way through the large selection of choices on the menu.The sentiment polarity of staff is positive .
+After my friend and I were seated, we were greeted by a gorgeous waitress, who helped us make our way through the large selection of choices on the menu.The sentiment polarity of menu is neutral .
+Our waiter was completely unfamiliar with the menu and did not bother to tell us that they were out of several items (even though we arrived at 7 pm on a Saturday night!)The sentiment polarity of staff is negative .
+Our waiter was completely unfamiliar with the menu and did not bother to tell us that they were out of several items (even though we arrived at 7 pm on a Saturday night!)The sentiment polarity of menu is neutral .
+Food was at best, mediocre and when the bill finally came they had nerve to add on 20% gratuity even though there was nothing stated on the menu or anywhere that gratuity was included for a party of 5 (usually a party of 6 is gratuity inclusive).The sentiment polarity of price is neutral .
+Food was at best, mediocre and when the bill finally came they had nerve to add on 20% gratuity even though there was nothing stated on the menu or anywhere that gratuity was included for a party of 5 (usually a party of 6 is gratuity inclusive).The sentiment polarity of menu is neutral .
+Food was at best, mediocre and when the bill finally came they had nerve to add on 20% gratuity even though there was nothing stated on the menu or anywhere that gratuity was included for a party of 5 (usually a party of 6 is gratuity inclusive).The sentiment polarity of food is negative .
+The service is sweet and attentive, the wine is delicious and the new wine bar around the corner has the most amazing selection, as well as cheeses and tapas.The sentiment polarity of service is positive .
+The service is sweet and attentive, the wine is delicious and the new wine bar around the corner has the most amazing selection, as well as cheeses and tapas.The sentiment polarity of place is neutral .
+The service is sweet and attentive, the wine is delicious and the new wine bar around the corner has the most amazing selection, as well as cheeses and tapas.The sentiment polarity of miscellaneous is positive .
+The service is sweet and attentive, the wine is delicious and the new wine bar around the corner has the most amazing selection, as well as cheeses and tapas.The sentiment polarity of food is positive .
+The Food The Portuguese knack for exploration couldn't be more apparent on the expansive menu, which moves beyond classics like bacalhau to encompass a world of former colonies along with the motherland.The sentiment polarity of menu is positive .
+The Food The Portuguese knack for exploration couldn't be more apparent on the expansive menu, which moves beyond classics like bacalhau to encompass a world of former colonies along with the motherland.The sentiment polarity of miscellaneous is neutral .
+And when I received my $9 glass of wine, I had to ask the waitress if she planned on putting more in -- there was hardly any liquid in the glass!The sentiment polarity of food is neutral .
+And when I received my $9 glass of wine, I had to ask the waitress if she planned on putting more in -- there was hardly any liquid in the glass!The sentiment polarity of staff is negative .
+We were seated next to some obnoxious women who bogarted the server's time and attention, so he bought us drinks.The sentiment polarity of staff is negative .
+We were seated next to some obnoxious women who bogarted the server's time and attention, so he bought us drinks.The sentiment polarity of food is neutral .
+From chicken wings and smoked beef brisket to pulled pork and Texas links, the menu features many barbecue favorites.The sentiment polarity of food is positive .
+From chicken wings and smoked beef brisket to pulled pork and Texas links, the menu features many barbecue favorites.The sentiment polarity of menu is neutral .
+The Food The menu seems quirky, but upon a closer look ingredients are familiar and made into appealing combinations, with influences from Maine to the Mediterranean.The sentiment polarity of food is positive .
+The Food The menu seems quirky, but upon a closer look ingredients are familiar and made into appealing combinations, with influences from Maine to the Mediterranean.The sentiment polarity of menu is positive .
+The Food The menu seems quirky, but upon a closer look ingredients are familiar and made into appealing combinations, with influences from Maine to the Mediterranean.The sentiment polarity of ambience is neutral .
+While admitably, the seating is a bit cramped, and the menu a tad pricey, the staff does its best to remedy concerns.The sentiment polarity of place is negative .
+While admitably, the seating is a bit cramped, and the menu a tad pricey, the staff does its best to remedy concerns.The sentiment polarity of staff is positive .
+I couple of weeks ago we went to Supper in the east village and it was so bad that we got up and left and the only way to save the evening of horrible food was to go to Blue Ribbon Bakery and have at least one thing off the menu.The sentiment polarity of food is negative .
+I couple of weeks ago we went to Supper in the east village and it was so bad that we got up and left and the only way to save the evening of horrible food was to go to Blue Ribbon Bakery and have at least one thing off the menu.The sentiment polarity of menu is neutral .
+employees not fighting with each other in front of clients 3 having ALL the ingredients for the meals they have on there menue.The sentiment polarity of staff is negative .
+employees not fighting with each other in front of clients 3 having ALL the ingredients for the meals they have on there menue.The sentiment polarity of ambience is neutral .
+A hard-drinking, upscale crowd, holding conversations over loud Latin jazz music, packs the small, open dining room and attached bar.The sentiment polarity of ambience is negative .
+A hard-drinking, upscale crowd, holding conversations over loud Latin jazz music, packs the small, open dining room and attached bar.The sentiment polarity of place is neutral .
+The decor reminds me of Miami nightclubs, and we sat in a cool communal strip, where you share your table with people.The sentiment polarity of ambience is positive .
+The decor reminds me of Miami nightclubs, and we sat in a cool communal strip, where you share your table with people.The sentiment polarity of miscellaneous is neutral .
+Beautifull people, and a dj that was making me just want to stay and drink more!The sentiment polarity of staff is positive .
+Beautifull people, and a dj that was making me just want to stay and drink more!The sentiment polarity of food is neutral .
+Good place for groups of four or large parties but it is not a cozy/intimate setting for 2 although the jazz helps!The sentiment polarity of place is positive .
+Good place for groups of four or large parties but it is not a cozy/intimate setting for 2 although the jazz helps!The sentiment polarity of ambience is negative .
+We got seated right away, We got a nice starter from the kitchen, unfortunately the waiter that brought it could not explain what it was, it was delicious though.The sentiment polarity of food is positive .
+We got seated right away, We got a nice starter from the kitchen, unfortunately the waiter that brought it could not explain what it was, it was delicious though.The sentiment polarity of place is neutral .
+We got seated right away, We got a nice starter from the kitchen, unfortunately the waiter that brought it could not explain what it was, it was delicious though.The sentiment polarity of staff is negative .
+Her attitude put a damper on the evening, as did the stares from some servers when we took a peek into the cheese cellar.The sentiment polarity of staff is negative .
+Her attitude put a damper on the evening, as did the stares from some servers when we took a peek into the cheese cellar.The sentiment polarity of food is neutral .
+After a short 30 minutes of chatting and enjoying our drinks we were approached by the very pretentious Maitre D' who RUDELY demanded we order as our table was needed.The sentiment polarity of staff is negative .
+After a short 30 minutes of chatting and enjoying our drinks we were approached by the very pretentious Maitre D' who RUDELY demanded we order as our table was needed.The sentiment polarity of miscellaneous is neutral .
+We had to ask the busboy if bread came with our meal, which it did and we received after waiting about 30 minutes.The sentiment polarity of staff is neutral .
+We had to ask the busboy if bread came with our meal, which it did and we received after waiting about 30 minutes.The sentiment polarity of food is neutral .
+We had to ask the busboy if bread came with our meal, which it did and we received after waiting about 30 minutes.The sentiment polarity of service is negative .
+Yet the maitre d still sat us next to the bar.The sentiment polarity of staff is negative .
+Yet the maitre d still sat us next to the bar.The sentiment polarity of place is neutral .
+We arrived, were greeeted and sked by the hostess I think if we were there for the Brunch, that was starting up again on today(3/12) the cost $25 per person.The sentiment polarity of staff is positive .
+We arrived, were greeeted and sked by the hostess I think if we were there for the Brunch, that was starting up again on today(3/12) the cost $25 per person.The sentiment polarity of food is neutral .
+The menu includes the usual Chinese restaurant staples, but also includes a fairly diverse selection of other dishes not typically found in your average noodle house.The sentiment polarity of menu is neutral .
+The menu includes the usual Chinese restaurant staples, but also includes a fairly diverse selection of other dishes not typically found in your average noodle house.The sentiment polarity of food is positive .
+The menu includes the usual Chinese restaurant staples, but also includes a fairly diverse selection of other dishes not typically found in your average noodle house.The sentiment polarity of miscellaneous is neutral .
+And once the bill was paid, the bartender kept on giving us drinks.The sentiment polarity of price is neutral .
+And once the bill was paid, the bartender kept on giving us drinks.The sentiment polarity of staff is positive .
+And once the bill was paid, the bartender kept on giving us drinks.The sentiment polarity of food is neutral .
+The bartender had offered us ONE beer on the house for our troubles.The sentiment polarity of staff is positive .
+The bartender had offered us ONE beer on the house for our troubles.The sentiment polarity of food is neutral .
+We had to request water and chips (tostades) and salsa three times (the third time my date had to go and track down the waitress) before finally being served (by the busser) and the place wasn't even a quarter full.The sentiment polarity of food is neutral .
+We had to request water and chips (tostades) and salsa three times (the third time my date had to go and track down the waitress) before finally being served (by the busser) and the place wasn't even a quarter full.The sentiment polarity of staff is negative .
+We had to request water and chips (tostades) and salsa three times (the third time my date had to go and track down the waitress) before finally being served (by the busser) and the place wasn't even a quarter full.The sentiment polarity of service is neutral .
+We had to request water and chips (tostades) and salsa three times (the third time my date had to go and track down the waitress) before finally being served (by the busser) and the place wasn't even a quarter full.The sentiment polarity of place is negative .
+When we ordered our Margaritas, the waiter said $10, so we gave him a 20 and waited, and when he didn't give us our change, we asked and he said - Happy Hour's over, they're $10 each.The sentiment polarity of food is neutral .
+When we ordered our Margaritas, the waiter said $10, so we gave him a 20 and waited, and when he didn't give us our change, we asked and he said - Happy Hour's over, they're $10 each.The sentiment polarity of staff is negative .
+We objected at the ill flavor of the drinks and the manager was not understanding at all.The sentiment polarity of ambience is negative .
+We objected at the ill flavor of the drinks and the manager was not understanding at all.The sentiment polarity of food is neutral .
+We objected at the ill flavor of the drinks and the manager was not understanding at all.The sentiment polarity of staff is negative .
+Great tasting meat, intimate if slightly noisy ambience and the service is slightly less attentive than it could be but is done with charm.The sentiment polarity of food is positive .
+Great tasting meat, intimate if slightly noisy ambience and the service is slightly less attentive than it could be but is done with charm.The sentiment polarity of service is negative .
+This pizza shop is one o fhte best places ever and is a hiden gem in a small community.The sentiment polarity of food is positive .
+This pizza shop is one o fhte best places ever and is a hiden gem in a small community.The sentiment polarity of miscellaneous is negative .
+Tasting menu a mixed bag: lobster soup amuse with grapefruit intriguing, but marred by excess bitterness as prepared.The sentiment polarity of menu is positive .
+Tasting menu a mixed bag: lobster soup amuse with grapefruit intriguing, but marred by excess bitterness as prepared.The sentiment polarity of miscellaneous is neutral .
+Tasting menu a mixed bag: lobster soup amuse with grapefruit intriguing, but marred by excess bitterness as prepared.The sentiment polarity of food is neutral .
+In addition, I've always found the waiters helpful with the wine selection, and there is always a good selection of wines by the glass.The sentiment polarity of staff is positive .
+In addition, I've always found the waiters helpful with the wine selection, and there is always a good selection of wines by the glass.The sentiment polarity of food is positive .
+In addition, I've always found the waiters helpful with the wine selection, and there is always a good selection of wines by the glass.The sentiment polarity of miscellaneous is neutral .
+I STRONGLY recommend to try something other than typical menu items and go for the short ribs over rice, black cod, sea bass, or duck (there are two dishes that are great).The sentiment polarity of menu is neutral .
+I STRONGLY recommend to try something other than typical menu items and go for the short ribs over rice, black cod, sea bass, or duck (there are two dishes that are great).The sentiment polarity of food is positive .
+Although the portions seemed a little diminutive at first, they turned out to be the perfect size once the dinner was over.The sentiment polarity of miscellaneous is negative .
+Although the portions seemed a little diminutive at first, they turned out to be the perfect size once the dinner was over.The sentiment polarity of food is neutral .
+The food was great but the music was loud and hip-hop and the wait was ridiculous and the prices were out of this world.The sentiment polarity of food is positive .
+The food was great but the music was loud and hip-hop and the wait was ridiculous and the prices were out of this world.The sentiment polarity of service is negative .
+Invited by friends to discuss business, I checked out the bar first, and didn't give my nme which was known to the owners Scott Heather.The sentiment polarity of place is neutral .
+Invited by friends to discuss business, I checked out the bar first, and didn't give my nme which was known to the owners Scott Heather.The sentiment polarity of staff is negative .
+There were a lot of scensters who couldnt afford dinner hanging in the waiting area so we got bumped around a lot.The sentiment polarity of food is negative .
+There were a lot of scensters who couldnt afford dinner hanging in the waiting area so we got bumped around a lot.The sentiment polarity of place is neutral .
+I had high hopes for this high-ranked wonder, only to be let down by inattentive service doubled by LONG food and drink wait times.The sentiment polarity of food is neutral .
+I had high hopes for this high-ranked wonder, only to be let down by inattentive service doubled by LONG food and drink wait times.The sentiment polarity of service is negative .
